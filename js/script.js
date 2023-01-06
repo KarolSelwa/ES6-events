@@ -1,4 +1,4 @@
-import JSSlider from './modules/JSSlider';
+import JSSlider from '../modules/JSSlider';
 
 const init = () => {
     const imagesList = document.querySelectorAll('.gallery__item');
